@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Justin Ruffridge for Alaska State House
+title: Justin Ruffridge Alaska State House
 masthead_title: "&nbsp"
 logo: "/assets/images/logo.png"
 og_image: /assets/images/logo.png
@@ -63,7 +63,7 @@ plugins:
 author:
   name   : "Justin Ruffridge"
   avatar : "/assets/images/IMG_0789.jpeg"
-  bio    : "For Alaska State House"
+  bio    : "Alaska State House"
   links:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook"
