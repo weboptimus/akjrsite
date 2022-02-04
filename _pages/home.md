@@ -9,9 +9,8 @@ header:
   actions:
     - label: "Donate today"
       url: "https://www.paypal.com/donate/?hosted_button_id=X46EGMLD86SDQ"
-title: Justin Ruffridge for Alaska State House
-#excerpt: >
-#  For Alaska State House
+excerpt: >
+  Now is the time for action and a steady presence to represent our home and the people of this wonderful community.
 # feature_row:
 #   - image_path: /assets/images/mm-customizable-feature.png
 #     alt: "customizable"
@@ -36,7 +35,7 @@ title: Justin Ruffridge for Alaska State House
 #     btn_label: "Learn more"      
 ---
 
-# About
+# Justin Ruffridge for Alaska State House
 
 Justin moved to the Kenai/Soldotna area with his family in 1994.  His parents (both educators) braved the journey north to teach at a small christian school.  He graduated from that school in 2001 and went on to attend Washington State University and graduated with a Doctor of Pharmacy degree in 2008.  During that time he was introduced to his wife Jessie and they were married in 2004.  After graduation they moved back to the Kenai to begin work at Soldotna Professional Pharmacy.  A few years later he and a business partner were able to acquire that pharmacy as well as the Juneau Drug Company in downtown Juneau.  Since that time they have also started a small pharmacy in Girdwood.
 
