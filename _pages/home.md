@@ -8,6 +8,7 @@ header:
   actions:
     - label: "Donate today"
       url: "https://www.paypal.com/donate/?hosted_button_id=X46EGMLD86SDQ"
+tagline: Justin Ruffridge
 excerpt: >
   For Alaska State House
 # feature_row:
