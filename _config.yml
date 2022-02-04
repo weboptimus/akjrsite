@@ -19,6 +19,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Justin Ruffridge for Alaska State House District 30
 twitter_username: username
 github_username: username
+facebook:
+  username: "Justin-Ruffridge-State-House-107716101826782"
 minimal_mistakes_skin: default
 search: true
 
