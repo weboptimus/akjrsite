@@ -62,7 +62,7 @@ author:
   bio    : "For Alaska State House"
   links:
     - label: "Facebook"
-      icon: "fas fa-fw fa-facebook"
+      icon: "fab fa-fw fa-facebook"
       url: "https://www.facebook.com/Justin-Ruffridge-State-House-107716101826782"
 footer:
   links:
