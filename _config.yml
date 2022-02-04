@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Justin Ruffridge for Alaska
+title: Justin Ruffridge for State House
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Justin Ruffridge for Alaska House District 30
+  Justin Ruffridge for Alaska State House District 30
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
