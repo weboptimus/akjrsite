@@ -5,6 +5,7 @@ hidden: true
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/pv-5411.JPG
+  overlay_filter: linear-gradient(rgba(204, 0, 0, 0.5), rgba(255, 255, 255, 0.5), rgba(0, 0, 204, 0.5))
   actions:
     - label: "Donate today"
       url: "https://www.paypal.com/donate/?hosted_button_id=X46EGMLD86SDQ"
