@@ -6,10 +6,10 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/pv-5411.JPG
   actions:
-    - label: "<i class='fas fa-download'></i> Donate today"
+    - label: "Donate today"
       url: "https://www.paypal.com/donate/?hosted_button_id=X46EGMLD86SDQ"
 excerpt: >
-  Justin Ruffridge for 30th House District
+  For Alaska State House
 # feature_row:
 #   - image_path: /assets/images/mm-customizable-feature.png
 #     alt: "customizable"
