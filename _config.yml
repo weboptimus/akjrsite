@@ -16,6 +16,7 @@
 title: Justin Ruffridge for Alaska State House
 masthead_title: "&nbsp"
 logo: "/assets/images/logo.png"
+og_image: /assets/images/logo.png
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Now is the time for action and a steady presence to represent our home, District 30, and the people of this wonderful community.
