@@ -58,21 +58,11 @@ plugins:
 author:
   name   : "Justin Ruffridge"
   avatar : "/assets/images/IMG_0789.jpeg"
-  bio    : "For House District 30"
+  bio    : "For Alaska State House"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
-
+    - label: "Facebook"
+      icon: "fas fa-fw fa-facebook"
+      url: "https://www.facebook.com/Justin-Ruffridge-State-House-107716101826782"
 footer:
   links:
     - label: "Facebook"
