@@ -11,14 +11,14 @@ header:
       url: "https://www.paypal.com/donate/?hosted_button_id=X46EGMLD86SDQ"
 excerpt: >
   Now is the time for action and a steady presence to represent our home and the people of this wonderful community.
-feature_row:
-  - image_path: /assets/images/sign.jpg
-    alt: "Get a sign"
-    title: "Get a sign"
-    excerpt: "Show your support for change by requesting a yard sign"
-    url: "https://www.google.com"
-    btn_class: "btn--primary"
-    btn_label: "Get a sign"
+# feature_row:
+#   - image_path: /assets/images/sign.jpg
+#     alt: "Get a sign"
+#     title: "Get a sign"
+#     excerpt: "Show your support for change by requesting a yard sign"
+#     url: "https://www.google.com"
+#     btn_class: "btn--primary"
+#     btn_label: "Get a sign"
 #   - image_path: /assets/images/mm-responsive-feature.png
 #     alt: "fully responsive"
 #     title: "Responsive layouts"
