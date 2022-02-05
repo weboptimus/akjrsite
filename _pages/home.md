@@ -35,6 +35,8 @@ feature_row:
 #     btn_label: "Learn more"      
 ---
 
+{% include feature_row %}
+
 <h1>About</h1>
 
 Justin moved to the Kenai/Soldotna area with his family in 1994.  His parents (both educators) braved the journey north to teach at a small Christian school.  He graduated from high school in 2001 and went on to attend Washington State University graduating with a Doctor of Pharmacy degree in 2008. 
