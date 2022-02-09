@@ -28,7 +28,7 @@ feature_row:
     btn_label: "Sign up"
   - image_path: /assets/images/volunteer.jpg
     alt: "Volunteer"
-    title: "Volunteer"
+    title: "Volunteer for the campaign"
     #excerpt: "Show your support for change by volunteering for the campaign"
     url: "https://docs.google.com/forms/d/e/1FAIpQLSfTB-323GFxLu4jzExeO3oDeojio84jmpxFR1oYZlyfd0jxXw/viewform?usp=sf_link"
     btn_class: "btn--primary"
