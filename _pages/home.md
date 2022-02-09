@@ -19,17 +19,17 @@ feature_row:
   #   url: "https://www.google.com"
   #   btn_class: "btn--primary"
   #   btn_label: "Get a sign"\
-  - image_path: /assets/images/host.jpg
+  - image_path: /assets/images/host.jpeg
     alt: "Host a fundraiser"
-    title: "Host a fundraiser"
-    excerpt: "Show your support for change by hosting a fundraiser"
+    #title: "Host a fundraiser"
+    #excerpt: "Show your support for change by hosting a fundraiser"
     url: "https://docs.google.com/forms/d/e/1FAIpQLSeCauqMZk8_8U7DkVoQ2NSaSrr674_qdQpDfc6gZ9ig1lXSng/viewform?usp=sf_link"
     btn_class: "btn--primary"
     btn_label: "Volunteer"
   - image_path: /assets/images/volunteer.jpg
     alt: "Volunteer for the campaign"
-    title: "Volunteer for the campaign"
-    excerpt: "Show your support for change by volunteering for the campaign"
+    #title: "Volunteer for the campaign"
+    #excerpt: "Show your support for change by volunteering for the campaign"
     url: "https://docs.google.com/forms/d/e/1FAIpQLSfTB-323GFxLu4jzExeO3oDeojio84jmpxFR1oYZlyfd0jxXw/viewform?usp=sf_link"
     btn_class: "btn--primary"
     btn_label: "Volunteer for the campaign"
