@@ -19,7 +19,7 @@ feature_row:
   #   url: "https://www.google.com"
   #   btn_class: "btn--primary"
   #   btn_label: "Get a sign"\
-  - image_path: /assets/images/host.jpeg
+  - image_path: /assets/images/host.png
     alt: "Host a fundraiser"
     #title: "Host a fundraiser"
     #excerpt: "Show your support for change by hosting a fundraiser"
