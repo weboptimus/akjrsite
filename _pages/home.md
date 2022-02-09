@@ -21,18 +21,18 @@ feature_row:
   #   btn_label: "Get a sign"\
   - image_path: /assets/images/host.png
     alt: "Host a fundraiser"
-    #title: "Host a fundraiser"
+    title: "Host a fundraiser"
     #excerpt: "Show your support for change by hosting a fundraiser"
     url: "https://docs.google.com/forms/d/e/1FAIpQLSeCauqMZk8_8U7DkVoQ2NSaSrr674_qdQpDfc6gZ9ig1lXSng/viewform?usp=sf_link"
     btn_class: "btn--primary"
-    btn_label: "Host a fundraiser"
+    btn_label: "Sign up"
   - image_path: /assets/images/volunteer.jpg
     alt: "Volunteer"
-    #title: "Volunteer for the campaign"
+    title: "Volunteer"
     #excerpt: "Show your support for change by volunteering for the campaign"
     url: "https://docs.google.com/forms/d/e/1FAIpQLSfTB-323GFxLu4jzExeO3oDeojio84jmpxFR1oYZlyfd0jxXw/viewform?usp=sf_link"
     btn_class: "btn--primary"
-    btn_label: "Volunteer"
+    btn_label: "Sign up"
 #   - image_path: /assets/images/mm-responsive-feature.png
 #     alt: "fully responsive"
 #     title: "Responsive layouts"
