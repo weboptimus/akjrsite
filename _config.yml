@@ -68,6 +68,9 @@ author:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook"
       url: "https://www.facebook.com/Justin-Ruffridge-State-House-107716101826782"
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:ruffridgeak@gmail.com"
 footer:
   links:
     - label: "Facebook"
