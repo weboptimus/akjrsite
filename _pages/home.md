@@ -10,7 +10,7 @@ header:
     - label: "Donate today"
       url: "https://www.paypal.com/donate/?hosted_button_id=X46EGMLD86SDQ"
 excerpt: >
-  Now is the time for action and a steady presence to represent our home and the people of this wonderful community.
+  Now is the time for leadership and a steady presence to represent our State and the people in our communities.
 feature_row:
   # - image_path: /assets/images/sign.jpg
   #   alt: "Get a sign"
