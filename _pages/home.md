@@ -27,12 +27,12 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Host a fundraiser"
   - image_path: /assets/images/volunteer.jpg
-    alt: "Volunteer for the campaign"
+    alt: "Volunteer"
     #title: "Volunteer for the campaign"
     #excerpt: "Show your support for change by volunteering for the campaign"
     url: "https://docs.google.com/forms/d/e/1FAIpQLSfTB-323GFxLu4jzExeO3oDeojio84jmpxFR1oYZlyfd0jxXw/viewform?usp=sf_link"
     btn_class: "btn--primary"
-    btn_label: "Volunteer for the campaign"
+    btn_label: "Volunteer"
 #   - image_path: /assets/images/mm-responsive-feature.png
 #     alt: "fully responsive"
 #     title: "Responsive layouts"
