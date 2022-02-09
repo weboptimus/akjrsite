@@ -11,14 +11,28 @@ header:
       url: "https://www.paypal.com/donate/?hosted_button_id=X46EGMLD86SDQ"
 excerpt: >
   Now is the time for action and a steady presence to represent our home and the people of this wonderful community.
-# feature_row:
-#   - image_path: /assets/images/sign.jpg
-#     alt: "Get a sign"
-#     title: "Get a sign"
-#     excerpt: "Show your support for change by requesting a yard sign"
-#     url: "https://www.google.com"
-#     btn_class: "btn--primary"
-#     btn_label: "Get a sign"
+feature_row:
+  # - image_path: /assets/images/sign.jpg
+  #   alt: "Get a sign"
+  #   title: "Get a sign"
+  #   excerpt: "Show your support for change by requesting a yard sign"
+  #   url: "https://www.google.com"
+  #   btn_class: "btn--primary"
+  #   btn_label: "Get a sign"\
+  - image_path: /assets/images/host.jpg
+    alt: "Host a fundraiser"
+    title: "Host a fundraiser"
+    excerpt: "Show your support for change by hosting a fundraiser"
+    url: "https://docs.google.com/forms/d/e/1FAIpQLSeCauqMZk8_8U7DkVoQ2NSaSrr674_qdQpDfc6gZ9ig1lXSng/viewform?usp=sf_link"
+    btn_class: "btn--primary"
+    btn_label: "Volunteer"
+  - image_path: /assets/images/volunteer.jpg
+    alt: "Volunteer for the campaign"
+    title: "Volunteer for the campaign"
+    excerpt: "Show your support for change by volunteering for the campaign"
+    url: "https://docs.google.com/forms/d/e/1FAIpQLSfTB-323GFxLu4jzExeO3oDeojio84jmpxFR1oYZlyfd0jxXw/viewform?usp=sf_link"
+    btn_class: "btn--primary"
+    btn_label: "Volunteer for the campaign"
 #   - image_path: /assets/images/mm-responsive-feature.png
 #     alt: "fully responsive"
 #     title: "Responsive layouts"
@@ -32,9 +46,10 @@ excerpt: >
 #     excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
 #     url: "/docs/license/"
 #     btn_class: "btn--primary"
-#     btn_label: "Learn more"   
-# {% include feature_row %}   
+#     btn_label: "Learn more"      
 ---
+
+{% include feature_row %}
 
 <h1>About</h1>
 
