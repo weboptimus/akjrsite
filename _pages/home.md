@@ -25,7 +25,7 @@ feature_row:
     #excerpt: "Show your support for change by hosting a fundraiser"
     url: "https://docs.google.com/forms/d/e/1FAIpQLSeCauqMZk8_8U7DkVoQ2NSaSrr674_qdQpDfc6gZ9ig1lXSng/viewform?usp=sf_link"
     btn_class: "btn--primary"
-    btn_label: "Volunteer"
+    btn_label: "Host a fundraiser"
   - image_path: /assets/images/volunteer.jpg
     alt: "Volunteer for the campaign"
     #title: "Volunteer for the campaign"
