@@ -12,13 +12,13 @@ header:
 excerpt: >
   Now is the time for leadership and a steady presence to represent our State and the people in our communities.
 feature_row:
-  # - image_path: /assets/images/sign.jpg
-  #   alt: "Get a sign"
-  #   title: "Get a sign"
-  #   excerpt: "Show your support for change by requesting a yard sign"
-  #   url: "https://www.google.com"
-  #   btn_class: "btn--primary"
-  #   btn_label: "Get a sign"\
+  - image_path: /assets/images/sign.jpg
+    alt: "Get a yard sign"
+    title: "Get a yard sign"
+    #excerpt: "Show your support for change by requesting a yard sign"
+    url: "https://docs.google.com/forms/d/e/1FAIpQLSd-mBdU0G44OxVG8L73v5sJDVhHrkOd3q_4FO-ShuqrvcvQqA/viewform?usp=sf_link"
+    btn_class: "btn--primary"
+    btn_label: "Get a yard sign"
   - image_path: /assets/images/host.png
     alt: "Host a fundraiser"
     title: "Host a fundraiser"
