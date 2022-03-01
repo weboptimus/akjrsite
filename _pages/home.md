@@ -18,7 +18,7 @@ feature_row:
     #excerpt: "Show your support for change by requesting a yard sign"
     url: "https://docs.google.com/forms/d/e/1FAIpQLSd-mBdU0G44OxVG8L73v5sJDVhHrkOd3q_4FO-ShuqrvcvQqA/viewform?usp=sf_link"
     btn_class: "btn--primary"
-    btn_label: "Get a yard sign"
+    btn_label: "Sign up"
   - image_path: /assets/images/host.png
     alt: "Host a fundraiser"
     title: "Host a fundraiser"
