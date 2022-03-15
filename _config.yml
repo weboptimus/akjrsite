@@ -13,13 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Justin Ruffridge Alaska State House
+title: Justin Ruffridge Alaska State House 2022
 masthead_title: "&nbsp"
 logo: "/assets/images/logo.png"
 og_image: /assets/images/logo.png
 email: ruffridgeak@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Now is the time for action and a steady presence to represent our home, District 7, and the people of this wonderful community.
+  Now is the time for action and a steady presence to represent our home, District 7, and the people of the wonderful communities of Kenai and Soldotna.
 twitter_username: username
 github_username: username
 facebook:
